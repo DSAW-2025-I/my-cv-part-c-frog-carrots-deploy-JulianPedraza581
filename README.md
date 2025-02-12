@@ -85,3 +85,9 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+Tarea:![ranas](https://github.com/user-attachments/assets/71017cfb-eb22-4984-98c5-c852412106de)
+![zanahorias](https://github.com/user-attachments/assets/9f267c23-bc7f-48b5-892a-de98be3ee295)
+https://dsaw-2025-i.github.io/my-cv-part-c-frog-carrots-deploy-JulianPedraza581/
+Julian Andres Pedraza Padilla
+
